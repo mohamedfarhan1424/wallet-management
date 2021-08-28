@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/wallet-management/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/wallet-management/static/js/main.6c38beaa.chunk.js",
-    "main.js.map": "/wallet-management/static/js/main.6c38beaa.chunk.js.map",
+    "main.js": "/wallet-management/static/js/main.67b47cef.chunk.js",
+    "main.js.map": "/wallet-management/static/js/main.67b47cef.chunk.js.map",
     "runtime-main.js": "/wallet-management/static/js/runtime-main.ebb569bf.js",
     "runtime-main.js.map": "/wallet-management/static/js/runtime-main.ebb569bf.js.map",
-    "static/js/2.fcc75e91.chunk.js": "/wallet-management/static/js/2.fcc75e91.chunk.js",
-    "static/js/2.fcc75e91.chunk.js.map": "/wallet-management/static/js/2.fcc75e91.chunk.js.map",
+    "static/js/2.17f8b97d.chunk.js": "/wallet-management/static/js/2.17f8b97d.chunk.js",
+    "static/js/2.17f8b97d.chunk.js.map": "/wallet-management/static/js/2.17f8b97d.chunk.js.map",
     "index.html": "/wallet-management/index.html",
     "static/css/main.d87cbb72.chunk.css.map": "/wallet-management/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.fcc75e91.chunk.js.LICENSE.txt": "/wallet-management/static/js/2.fcc75e91.chunk.js.LICENSE.txt"
+    "static/js/2.17f8b97d.chunk.js.LICENSE.txt": "/wallet-management/static/js/2.17f8b97d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ebb569bf.js",
-    "static/js/2.fcc75e91.chunk.js",
+    "static/js/2.17f8b97d.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.6c38beaa.chunk.js"
+    "static/js/main.67b47cef.chunk.js"
   ]
 }
