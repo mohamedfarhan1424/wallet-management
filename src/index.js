@@ -6,7 +6,7 @@ import { Auth0Provider } from "@auth0/auth0-react";
 ReactDOM.render(
   <Auth0Provider
     domain="dev-xvfynzm7.us.auth0.com"
-    clientId="PmvKsSdhy6JVvvxVXN7RcRo065lHKGdc"
+    clientId="PQ7d6c7CIUzi9Pqpzt33ayfPUnlHppMb"
     redirectUri={window.location.origin}
     audience="https://dev-xvfynzm7.us.auth0.com/api/v2/"
     scope="read:current_user update:current_user_metadata"
